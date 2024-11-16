@@ -1,0 +1,144 @@
+body {
+    background-image: url(IMAGES/AdobeStock_219801337_Preview.jpeg);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    margin: 0px;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: blue;
+}
+
+.chance {
+
+    color: rgb(0, 0, 0);
+    text-align: center;
+
+}
+
+iframe {
+    width: 800px;
+    height: 400px;
+}
+
+
+#atomberg {
+    text-align: left;
+    width: 10%;
+}
+
+#sbi {
+    text-align: left;
+    width: 33%;
+}
+
+#campa {
+    text-align: left;
+}
+
+#main {
+    border: 3px solid gold;
+    border-radius: 20px;
+}
+
+:link {
+    text-decoration: none;
+}
+
+.IMAGES {
+    display: grid;
+    grid-template-columns: auto;
+}
+
+.GRADE img {
+    padding: 5px;
+    border-radius: 40px;
+    width: 23%;
+}
+
+.sponsors {
+    margin-top: 60px;
+    margin-bottom: 0px;
+    color: gold;
+    padding: 0px;
+    margin-top: 130px;
+
+}
+
+.sponsors>table {
+    background-color: black;
+}
+
+.GRADE img:hover {
+    padding: 5px;
+    border-radius: 40px;
+    scale: 105%;
+}
+
+.sponsors th {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: static;
+    bottom: auto;
+}
+
+.GRADE {
+    color: rgb(238, 255, 0);
+    font-size: 200%;
+}
+
+.form {
+    font-weight: 600;
+    color:black;
+    text-align: center;
+    
+}
+
+input {
+    height: 25px;
+    border-radius: 20px;
+    border-color: color(from srgb 50 100 30)
+}
+
+select {
+
+    height: 25px;
+    border-radius: 20px;
+
+}
+
+    .header td {
+    width: 25%;
+    align-items: center;
+    text-align: left;
+    position: relative;
+    left: 20px;
+    }
+
+table {
+    width: 100%;
+}
+
+#BCCI {
+    height: 22px;
+    text-align: left;
+    vertical-align: bottom;
+    color: black;
+}
+
+.info {
+    background-color: none;
+    background-image: url(IMAGES/honors-bg.png);
+    color: white;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.infoth{
+    font-size: 150%;
+    font-weight: 600;
+    height: 50px;
+}
